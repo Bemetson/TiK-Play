@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TiK Play 0.1</string>
+    <string name="response_ok">Song linked successfully to TiK Play!</string>
+    <string name="response_fail">Something went wrong :(</string>
+</resources>
